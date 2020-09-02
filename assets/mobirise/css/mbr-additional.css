@@ -2703,16 +2703,16 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-s9oYPMaZr9 .img1 {
-  color: #00bea3;
+  color: #ed4266;
 }
 .cid-s9oYPMaZr9 .img2 {
-  color: #f1894c;
+  color: #ed4266;
 }
 .cid-s9oYPMaZr9 .line {
   width: 35px;
   height: 3px;
   display: inline-block;
-  background: #f1894c;
+  background: #ed4266;
   transition: background 0.3s;
   margin-bottom: 2rem;
 }
