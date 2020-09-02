@@ -3099,3 +3099,31 @@ section.lazy-placeholder:after {
   width: auto;
   max-width: 100%;
 }
+.cid-uJfZ66tdNb .hidden {
+  display: none;
+}
+.cid-uJfZ66tdNb .floating-bar {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #149dcc;
+  color: #ffffff;
+  border-radius: 50%;
+  text-align: center;
+  box-shadow: 2px 2px 2px #999;
+  transition: 0.3s;
+  z-index: 99999;
+}
+.cid-uJfZ66tdNb .floating-bar:hover {
+  background-color: #4db6da;
+}
+.cid-uJfZ66tdNb .floating-button {
+  color: #ffffff;
+}
+.cid-uJfZ66tdNb .valign {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
