@@ -3108,16 +3108,14 @@ section.lazy-placeholder:after {
   height: 60px;
   bottom: 40px;
   right: 40px;
-  background-color: #149dcc;
+  background-color: #ffffff;
   color: #ffffff;
   border-radius: 50%;
   text-align: center;
-  box-shadow: 2px 2px 2px #999;
-  transition: 0.3s;
   z-index: 99999;
 }
 .cid-uJfZ66tdNb .floating-bar:hover {
-  background-color: #4db6da;
+  background-color: #ffffff;
 }
 .cid-uJfZ66tdNb .floating-button {
   color: #ffffff;
