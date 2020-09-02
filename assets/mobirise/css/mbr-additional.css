@@ -3109,7 +3109,7 @@ section.lazy-placeholder:after {
   bottom: 40px;
   right: 40px;
   background-color: #ffffff;
-  color: #ffffff;
+  color: #25d366;
   border-radius: 50%;
   text-align: center;
   z-index: 99999;
@@ -3118,7 +3118,7 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-uJfZ66tdNb .floating-button {
-  color: #ffffff;
+  color: #25d366;
 }
 .cid-uJfZ66tdNb .valign {
   position: relative;
