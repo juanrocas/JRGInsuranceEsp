@@ -3099,29 +3099,32 @@ section.lazy-placeholder:after {
   width: auto;
   max-width: 100%;
 }
-.cid-uJfZ66tdNb .hidden {
-  display: none;
-}
-.cid-uJfZ66tdNb .floating-bar {
+.cid-aZnEmOu9SL .float {
   position: fixed;
   width: 60px;
   height: 60px;
   bottom: 40px;
-  right: 40px;
-  background-color: #ffffff;
-  color: #25d366;
-  border-radius: 50%;
+  right: 100px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
   text-align: center;
-  z-index: 99999;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
 }
-.cid-uJfZ66tdNb .floating-bar:hover {
-  background-color: #ffffff;
+.cid-aZnEmOu9SL .my-float {
+  margin-top: 16px;
 }
-.cid-uJfZ66tdNb .floating-button {
-  color: #25d366;
+.cid-aZnEmOu9SL P {
+  color: #232323;
 }
-.cid-uJfZ66tdNb .valign {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+.cid-aZnEmOu9SL DIV {
+  color: #ffffff;
+}
+.cid-aZnEmOu9SL H10 {
+  color: #767676;
+}
+.cid-aZnEmOu9SL .hidden {
+  display: none;
 }
